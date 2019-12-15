@@ -1,0 +1,16 @@
+	  ** UPUTSTVO O IGRANJU **
+_____________________________________________
+Dobrodosli u igru Vesanja. Igra se sastoji iz
+pogadjanja zadate reci iz oblasti sporta, au-
+tomobila, bele tehnike i gradova u Srbiji.
+Imate 7 pokusaja da pogodite rec. Sve reci su
+u datotekama ispisane malim slovima! Svaki
+promasaj smanjuje broj pokusaja za 1. Sto se
+tice poena, svaki pogodak Vam donosi 10 poena,
+svaki promasaj Vam donosi -5 ponea, a svako
+unosenje slova koje je pogadjano donosi -2 po-
+ena. Posle prvog pogadjanja slova imate mogu-
+cnost da pogadjate celu rec, koja ako pogodi-
+te donosi odredjeni bonus broj poena.
+	      ** SRECNO **
+_____________________________________________
